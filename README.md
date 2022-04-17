@@ -1,7 +1,7 @@
 # Rperform-Hard-gsoc2022
 
+Rperform is a package that allows R developers to track quantitative performance metrics of their code. It focuses on providing changes in a package’s performance metrics, related to runtime and memory, over different git versions and across git branches. 
 
-A version of this package for your version of R might be available elsewhere
 #  Rperfom tests
 This repository contains the solution for the hard tests of the project "Rperform" of GSOC 2022.
 
